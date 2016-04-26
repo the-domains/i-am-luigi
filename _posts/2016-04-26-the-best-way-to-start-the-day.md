@@ -1,19 +1,21 @@
 ---
-dateModified: '2016-04-26T07:11:27.840Z'
+dateModified: '2016-04-26T07:15:23.124Z'
+datePublished: '2016-04-26T07:15:39.133Z'
 hasPage: false
 inFeed: true
 inNav: false
-title: ''
+title: 'Krohnegården '
 description: 'The best way to start the day!'
 author: []
 starred: false
-datePublished: '2016-04-26T07:11:43.866Z'
 sourcePath: _posts/2016-04-26-the-best-way-to-start-the-day.md
 published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![Morning walk](https://s3-us-west-2.amazonaws.com/the-grid-img/p/727140fce175ac8c264d564acd5abbe0239d1b83.jpg)
+
 The best way to start the day!
 
 The best way to start the day
