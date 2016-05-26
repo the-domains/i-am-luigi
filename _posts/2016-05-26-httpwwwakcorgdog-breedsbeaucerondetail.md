@@ -1,14 +1,14 @@
 ---
-dateModified: '2016-05-26T22:35:27.499Z'
-description: 'http://www.akc.org/dog-breeds/beauceron/detail/'
+dateModified: '2016-05-26T22:36:46.895Z'
+datePublished: '2016-05-26T22:36:55.307Z'
+description: ''
 inFeed: true
-title: ''
+title: 'http://www.akc.org/dog-breeds/beauceron/detail/'
 author: []
 starred: false
-datePublished: '2016-05-26T22:36:08.087Z'
 sourcePath: _posts/2016-05-26-httpwwwakcorgdog-breedsbeaucerondetail.md
 _context: 'http://schema.org'
 _type: Article
 
 ---
-http://www.akc.org/dog-breeds/beauceron/detail/
+# http://www.akc.org/dog-breeds/beauceron/detail/
