@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[I AM Luigi]]></title>
+        <description><![CDATA[I AM Luigi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 17:08:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Beauceron rasebeskrivelse (NKK)</p>]]></description>
+            <link>undefinedbeauceron-rasebeskrivelse-nkk/index.html</link>
+            <guid isPermaLink="false">5e8d159a-c0fe-4061-af6f-0db8cac97cb8</guid>
+            <pubDate>Sat, 25 Jun 2016 17:08:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
